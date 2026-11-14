@@ -67,7 +67,6 @@ VR-мод You Are Empty: Absolute Edition: оружие от контролле�
 
 | Игра / проект | Направление | Доступ |
 | --- | --- | --- |
-| [Battlefield 3 VR](https://github.com/Monsterdeadwood/BF3VR) | Кампания, оружие и руки | Закрытый |
 | [Assassin’s Creed VR](https://github.com/Monsterdeadwood/AC1VR) | Обзор от первого лица, лазание и меч | Закрытый |
 | [Crysis 2 VR](https://github.com/Monsterdeadwood/C2VR) | Нанокостюм, физическое взаимодействие и интерфейс | Закрытый |
 | [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR) | Локальные матчи CS:GO Legacy с VR-управлением | Закрытый |
