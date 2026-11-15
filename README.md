@@ -12,17 +12,18 @@
 
 ![Project status](assets/vr-status.svg)
 
-A VR mod for You Are Empty: Absolute Edition with a tracked weapon, an independent left palm, both-hand melee and native-game interaction. R46 keeps the R45 gameplay branch and fixes a reported startup compatibility rejection.
+A VR mod for You Are Empty: Absolute Edition with a tracked weapon, an independent left palm, both-hand melee and native-game interaction. R47 can start a new game when the installed game has no profile or saves yet.
 
-**Current documented branch: R46 startup compatibility preview.**
+**Current documented branch: R47 first-run test package.**
 
 ## Installation
 
-1. Get the current **YAEVR R46** test package in the You Are Empty thread on Flat2VR. Keep your supported Absolute Edition installation separate.
-2. Extract the complete single mod folder.
+1. Ask for the **YAEVR R47** first-run test package in the You Are Empty thread on Flat2VR. Keep your supported Absolute Edition installation separate.
+2. Extract the complete mod folder.
 3. Connect PC VR through your active OpenXR runtime, then open **RUN.bat**.
-4. If automatic detection fails, put the game’s full folder path in **GAME_PATH.txt**. The launcher loads Save0; use RUN.bat --slot SLOT_NAME for another slot.
-5. Keep the console open. After testing, share the generated local diagnostics ZIP in the Discord thread.
+4. If automatic detection fails, put the full path to the game folder in **GAME_PATH.txt**.
+5. The launcher resumes Save0 if present, then falls back to the newest regular save. With no saves, it starts the first campaign level. Use **RUN.bat --slot SLOT_NAME** to choose a slot or **RUN.bat --new-game** to start a new game.
+6. Keep the console open. If you run into a problem, share the generated diagnostics ZIP in the Discord thread.
 
 Current test-package availability is coordinated in Discord. Use the complete package for your supported game build; this project page is separate from a release download.
 
@@ -33,7 +34,7 @@ Current test-package availability is coordinated in Discord. Use the complete pa
 - Both-hand blocking/release on tested static walls through sampled source-derived collision envelopes.
 - VR-accessible inventory, recenter and pause controls.
 - SMAA High, FSR 1 and current OpenXR runtime selection.
-- R46 startup fix retains exact checks on supported game modules and models.
+- On first launch, R47 creates missing profile settings from the installed game’s templates and preserves existing settings.
 
 <details>
 <summary><b>Controller quick reference</b></summary>
@@ -54,7 +55,7 @@ The complete package control sheet takes precedence for its version and interact
 
 ## Current status
 
-**Experimental preview.** R45 collision, twelve-weapon and Save0 checks used the actual game with XR Sim. R46 exercised startup/gameplay with the reported game and Steam DLL identities.
+**Experimental preview.** R47 checks in the actual game with XR Sim covered a fresh profile with no saves and resuming the most recent save when Save0 is missing. RUN.bat was also tested from a fresh extraction with both supported executables.
 
 - Physical Meta/SteamVR acceptance and full-campaign coverage remain open.
 - The met6 first-person issue, Thunder carry/throw, flamethrower damage/ammo and all cinematic/new-VM transitions remain incompletely qualified.
@@ -101,4 +102,4 @@ Private repository links are available to invited collaborators. Public project 
 
 Project maintained by [Monsterdeadwood](https://github.com/Monsterdeadwood). This is an independent fan VR project; you need your own supported copy of the original game.
 
-Documentation reviewed: **14 November 2026**.
+Documentation reviewed: **15 November 2026**.
