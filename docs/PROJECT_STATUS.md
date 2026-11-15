@@ -9,6 +9,15 @@ Reviewed **15 November 2026**. Documented branch: **R47 first-run test package**
 - R47 checks in the actual game with XR Sim covered a fresh profile with no saves and resuming the most recent save when Save0 is missing. RUN.bat was also tested from a fresh extraction with both supported executables.
 - R45 collision, twelve-weapon and Save0 checks used the actual game with XR Sim. R46 exercised startup and gameplay with the reported game and Steam DLL identities.
 
+## Follow-up tests reviewed 16 November 2026
+
+R50 qualified the English help, errors and control labels. A standard cold BAT run and a 2560×1080 fresh-profile XR Sim run produced stereo pairs. Other wide attempts hit a frame timeout or a game-script startup failure. The results are scoped to the tested game and profile identities.
+
+Verification records used for this section
+
+- `YAE_R49_ULTRAWIDE_RU_QUALIFICATION_20261116.json`
+- `YAE_R50_ENGLISH_QUALIFICATION_20261116.json`
+
 ## Current limits
 
 - Physical Meta/SteamVR acceptance and full-campaign coverage remain open.

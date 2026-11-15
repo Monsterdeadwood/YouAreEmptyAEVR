@@ -14,7 +14,7 @@
 
 A VR mod for You Are Empty: Absolute Edition with a tracked weapon, an independent left palm, both-hand melee and native-game interaction. R47 can start a new game when the installed game has no profile or saves yet.
 
-**Current documented branch: R47 first-run test package.**
+**Package baseline on this page: R47 first-run test package.**
 
 ## Installation
 
@@ -52,6 +52,10 @@ Current test-package availability is coordinated in Discord. Use the complete pa
 The complete package control sheet takes precedence for its version and interaction profile.
 
 </details>
+
+## Features in newer test builds
+
+- **Ultrawide startup and English interface.** The R49–R50 follow-ups use the measured game viewport and provide a fully English launcher interface in R50. An R50 test with 2560×1080 input produced stereo on a fresh profile. Repeat startup on all reported configurations and physical-headset tests remain open.
 
 ## Current status
 
