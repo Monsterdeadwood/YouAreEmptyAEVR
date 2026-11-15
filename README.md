@@ -63,6 +63,19 @@ The complete package control sheet takes precedence for its version and interact
 
 Post in the game’s [Flat2VR thread](https://discord.gg/P4q9zt7ek) with your **mod version, game/store version, headset, OpenXR runtime, GPU, reproduction steps and the package’s diagnostic ZIP**. A short video is helpful for visual or handling problems.
 
+<!-- COMMUNITY_TESTERS_START -->
+## ❤️ Community testers — thank you!
+
+These VR projects improve thanks to the people sharing test reports, logs, videos and practical feedback across the portfolio.
+
+alvaro · Arkturus [CODA] · Arkturus Primacronus [HD2M] · Arthur G [ORE] · Bestgamer3 · Chtiblue · creative name [SC℧M] · Derp Dog · DNana51 [R1Δ] · Gritt [F2VR] · headbangerle. · huligan01 · jeremiasadasmki · Kerin\_Serica [1984] · kilo · Lawyer [WYRD] · little\_boxbr · Lord Beardsteak · MeWhenINameMyself · MetalikSix · neoz\_1980 · Notagameaddict · Pelmeschka · Potato Pancake Person · ReseTV · Rusty Gere · SilentBang [LTS] · SilentVortigaunt · Terry · ThE LaNd GuLl · Thomas-3D-VR · Uruz [F2VR] · Willthethrill · wxorys\_ · Xavier H. G.
+
+[Full community credits, games, feedback contributors and testing volunteers](TESTERS.md).
+
+The linked list shows which games each person helped with. Thank you as well to everyone whose reports arrived without a public display name.
+
+<!-- COMMUNITY_TESTERS_END -->
+
 ## Other VR mods by Monsterdeadwood
 
 | Game / project | Focus | Visibility |
