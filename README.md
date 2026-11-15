@@ -2,7 +2,9 @@
 > **[TEST BUILDS & DISCUSSION · FLAT2VR DISCORD](https://discord.gg/P4q9zt7ek)**
 > Testing, build requests, feedback and discussion happen in the **Flat2VR Modding Discord**. Join the server and find the **You Are Empty: Absolute Edition VR** thread.
 
-![You Are Empty: Absolute Edition VR — Monsterdeadwood VR mods](assets/vr-banner.svg)
+<p align="center">
+  <img src="assets/vr-banner.png" alt="You Are Empty: Absolute Edition VR — VR" width="690">
+</p>
 
 # You Are Empty: Absolute Edition VR
 
