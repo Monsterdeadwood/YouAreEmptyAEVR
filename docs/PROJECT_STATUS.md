@@ -37,10 +37,3 @@ This overview was reconciled against the project’s recorded package notes and 
 - `YAE_R45_COLLISION_PERFORMANCE_DISCORD_QUALIFICATION_20261112.json`
 
 Game execution, simulator validation and physical-headset feedback are reported separately above. Features from a separate experimental branch are identified explicitly.
-
-## Кратко по-русски
-
-VR-мод You Are Empty: Absolute Edition с оружием от контроллера, независимой левой ладонью, ближним боем обеими руками и взаимодействием с предметами игры. R47 может начать новую игру, даже если профиль и сохранения ещё не созданы.
-
-- Принятие в физических Meta/SteamVR-шлемах и вся кампания ещё требуют проверки.
-- Проблема первого лица met6, перенос/бросок Thunder, урон/боезапас огнемёта и все переходы сцен/новых VM ещё не проверены полностью.

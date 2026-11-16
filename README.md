@@ -8,7 +8,7 @@
 
 # You Are Empty: Absolute Edition VR
 
-[English](README.md) · [Русский](README_RU.md) · [Flat2VR Discord](https://discord.gg/P4q9zt7ek) · [All projects](PORTFOLIO.md)
+[Flat2VR Discord](https://discord.gg/P4q9zt7ek) · [All projects](PORTFOLIO.md)
 
 ![Project status](assets/vr-status.svg)
 
