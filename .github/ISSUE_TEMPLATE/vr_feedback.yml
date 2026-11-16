@@ -1,5 +1,5 @@
 name: VR feedback
-description: Report a reproducible issue with You Are Empty: Absolute Edition VR
+description: "Report a reproducible issue with You Are Empty: Absolute Edition VR"
 title: "[VR] "
 body:
   - type: markdown
