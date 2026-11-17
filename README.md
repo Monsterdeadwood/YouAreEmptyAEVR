@@ -1,9 +1,9 @@
 > [!IMPORTANT]
 > **TEST BUILDS & DISCUSSION**
 >
-> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)**
+> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)** · **[Open the You Are Empty: Absolute Edition thread](https://discord.com/channels/747967102895390741/1569714598318313594)**
 >
-> Ask for the matching test build and share feedback in the **You Are Empty VR** discussion.
+> Download the latest test build from the thread and share your results there.
 
 <p align="center">
   <img src="assets/vr-banner.png" alt="You Are Empty: Absolute Edition VR" width="690">
@@ -11,7 +11,7 @@
 
 ## INSTALLATION
 
-1. Install the supported **Absolute Edition** PC build and get the **YAEVR R47** test package.
+1. Install the supported **Absolute Edition** PC build and get the **YAEVR R50** test package.
 2. Extract the complete mod into its own folder. If detection fails, put the game path in `GAME_PATH.txt`.
 3. Connect PC VR, select your OpenXR runtime and run **`RUN.bat`**. On a fresh profile, the launcher starts the first level.
 
@@ -27,7 +27,7 @@ Both hands stop at tested walls and release cleanly when you pull away.
 
 ### START FRESH OR RESUME A SAVE
 
-The launcher starts a new campaign on a clean profile or resumes an existing checkpoint. Later test builds add an English launcher and ultrawide startup.
+The launcher starts a new campaign on a clean profile or resumes an existing checkpoint. R50 adds an English launcher and game interface, plus ultrawide startup support.
 
 The fresh-profile and wall tests used the original game in XR Sim.
 
