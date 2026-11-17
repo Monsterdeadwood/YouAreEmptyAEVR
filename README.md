@@ -14,8 +14,8 @@
 ## 📦 INSTALLATION
 
 1. Install the **Absolute Edition** of **You Are Empty** on PC.
-2. Extract the complete mod into its own folder. If the launcher needs the game path, enter it in `GAME_PATH.txt`.
-3. Connect PC VR, select your OpenXR runtime, and run **`RUN.bat`**.
+2. **Put the mod archive next to the game’s `.exe`.** Extract the complete archive there and keep the mod folder intact.
+3. Connect PC VR, select your OpenXR runtime, and run **`RUN.bat`** from the extracted mod folder. If the launcher needs the game path, enter it in `GAME_PATH.txt`.
 
 <a name="features"></a>
 
